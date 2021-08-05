@@ -11,7 +11,6 @@ I've contributed in projects from different domains, such as SMS platform, file 
 - 🔭 I’m currently working on an exciting WebRTC Platform.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about Java / Kotlin / WebRTC / Spring Boot 
-- ⚡ Fun fact: I'm solider right now.
 
 
 
